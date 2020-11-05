@@ -16,6 +16,6 @@ En el directorio principal se encuentra el ejercicio principal del TP que consis
 
 1. `cd EjerciciosObligatorios`
 
-2. `sh sumArray.sh`
+2. `sh sumaArray.sh`
 
-Para cambiar los valores del array, ingresar al archivo "sumArray.c" y modificar el vector.
+Para cambiar los valores del array, ingresar al archivo "sumaArray.c" y modificar el vector.
