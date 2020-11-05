@@ -7,7 +7,7 @@
 Tamaño de frame: 4KB = 2<sup>10</sup> * 2<sup>2</sup> = 2<sup>12</sup>
 
 Direcciones virtuales / tamaño de frame <br>
-2<sup>32</sup> / 2<sup>12</sup> = 2<sup>20</sup> = 1000000
+2<sup>32</sup> / 2<sup>12</sup> = 2<sup>20</sup> = 1048576
 
 ### d)
 
